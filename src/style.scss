@@ -1,0 +1,20 @@
+.hero-list{
+  list-style: none;
+  padding: 0;
+
+  .hero-item{
+    padding: 8px 12px;
+    text-transform: capitalize;
+    border-bottom: 1px solid #efef4f
+  }
+}
+
+$square : 300px;
+
+.hero-img{
+  height: $square;
+  width: $square;
+  border-radius: 50%;
+  magin: 10px;
+  object-fit: cover
+}
