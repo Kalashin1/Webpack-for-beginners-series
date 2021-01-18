@@ -5,4 +5,4 @@ const hero = {
     power: "superhuman strength"
 }
 
-export default  hero
+export default hero

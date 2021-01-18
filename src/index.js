@@ -1,4 +1,5 @@
 import Hero from './hero.js'
+import Box from './babel.js'
 
 import './style.scss'
 
